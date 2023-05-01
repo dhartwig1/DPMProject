@@ -1,0 +1,73 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set default font family and size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Set header styles */
+header {
+  background-color: rgb(0, 255, 187);
+  color: white;
+  padding: 20px;
+}
+
+/* Set h1 styles */
+h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+/* Set nav styles */
+nav {
+  background-color: white;
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+
+nav a {
+  color: rgb(0, 255, 183);
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: rgb(0, 255, 183);
+  color: white;
+}
+
+/* Set main styles */
+main {
+  padding: 20px;
+}
+
+/* Set table styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+table th {
+  background-color: rgb(9, 255, 185);
+  color: white;
+}
+
+/* Set footer styles */
+footer {
+  background-color: rgb(254, 254, 254);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
