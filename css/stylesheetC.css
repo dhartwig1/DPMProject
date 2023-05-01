@@ -13,7 +13,7 @@ body {
 
 /* Set header styles */
 header {
-  background-color: rgb(255, 230,9);
+  background-color: rgb(255, 222,9);
   color: white;
   padding: 20px;
 }
@@ -32,13 +32,13 @@ nav {
 }
 
 nav a {
-  color: rgb(255, 230, 9);
+  color: rgb(255, 222, 9);
   text-decoration: none;
   padding: 10px;
 }
 
 nav a:hover {
-  background-color: rgb(255, 230, 9);
+  background-color: rgb(255, 222, 9);
   color: white;
 }
 
@@ -60,13 +60,13 @@ table td, table th {
 }
 
 table th {
-  background-color: rgb(255, 230, 9);
+  background-color: rgb(255, 222, 9);
   color: white;
 }
 
 /* Set footer styles */
 footer {
-  background-color: rgb(255, 230, 9);
+  background-color: rgb(255, 222, 9);
   color: rgb(255, 230, 9);
   padding: 20px;
   text-align: center;
