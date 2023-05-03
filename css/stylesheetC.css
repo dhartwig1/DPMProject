@@ -70,4 +70,15 @@ footer {
   color: rgb(255, 230, 9);
   padding: 20px;
   text-align: center;
+  #cookieBanner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    z-index: 9999;
+  }
+  
 }
